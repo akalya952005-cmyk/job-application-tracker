@@ -204,6 +204,6 @@ Suggested real screenshot checklist (capture your own running app; none are incl
 JUnit tests cover status defaults, input trimming, required fields, allowed statuses, date validation, malformed date parsing, invalid IDs, and search/filter argument validation. JDBC CRUD, SQL parameter binding, MySQL connection errors, and dashboard aggregation should be verified with the manual integration checks above; no MySQL integration tests are claimed as passing.
 ## 🌐 Live Demo
 
-[**Open Job Application Tracker Website**](https://akalya952005-cmyk.github.io/job-application-tracker/)
+[**Open Job Application Tracker Website**](http://localhost:8080/job-application-tracker/applications)
 
 > Note: The GitHub Pages link is a static demo and does not run the Java backend or MySQL database.
